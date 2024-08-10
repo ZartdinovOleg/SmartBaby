@@ -511,7 +511,7 @@ img {
 	display: flex;
 	align-items: center;
 	position: relative;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/background-main-desktop.png);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/background-main-desktop.png);
 	background-size: cover;
 	min-height: 512px;
 }
@@ -545,7 +545,7 @@ img {
 .main-block::before {
 	width: 106px;
 	height: 84px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-car.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-car.svg);
 	background-size: cover;
 	top: -73px;
 	left: -135px;
@@ -554,7 +554,7 @@ img {
 .main-block::after {
 	width: 91px;
 	height: 62px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-cloud.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-cloud.svg);
 	top: -45px;
 	right: -116px;
 }
@@ -592,7 +592,7 @@ img {
 
 @media (max-width: 1199px) {
 	.main-block-wrapper {
-		background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/background-main-table.png);
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/background-main-table.png);
 		min-height: 441px;
 	}
 
@@ -628,7 +628,7 @@ img {
 
 @media (max-width: 767px) {
 	.main-block-wrapper {
-		background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/background-main-mobile.png);
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/background-main-mobile.png);
 		min-height: 304px;
 	}
 
@@ -693,7 +693,7 @@ img {
 .process__wrapper::before {
 	width: 135px;
 	height: 141px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-girl.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-girl.svg);
 	background-size: cover;
 	top: 111px;
 	left: -174px;
@@ -702,7 +702,7 @@ img {
 .process__wrapper::after {
 	width: 135px;
 	height: 68px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-rocket.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-rocket.svg);
 	background-size: cover;
 	top: -56px;
 	right: -42px;
@@ -810,7 +810,7 @@ img {
 	left: calc(50% - 26px);
 	border-radius: 50%;
 	outline: none;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-icon-play.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-icon-play.svg);
 	z-index: 2;
 }
 
@@ -994,7 +994,7 @@ img {
 	height: 381px;
 	top: -8px;
 	left: 50%;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/laughing-girl-desktop.png);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/laughing-girl-desktop.png);
 	transform: translateX(-50%);
 	z-index: 2;
 }
@@ -1032,7 +1032,7 @@ img {
 .types__item--first::before {
 	width: 182px;
 	height: 61px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-left-1.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-left-1.svg);
 	top: -30px;
 	right: 85px;
 }
@@ -1042,7 +1042,7 @@ img {
 	height: 105px;
 	bottom: -66px;
 	left: 150px;
-	background-image: url("https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-right-1.svg");
+	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-1.svg");
 }
 
 .types__item--third::before {
@@ -1050,7 +1050,7 @@ img {
 	height: 118px;
 	top: -95px;
 	right: 167px;
-	background-image: url("https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-left-2.svg");
+	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-left-2.svg");
 }
 
 .types__item--fourth::before {
@@ -1058,7 +1058,7 @@ img {
 	height: 87px;
 	bottom: 11px;
 	left: 55px;
-	background-image: url("https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-right-2.svg");
+	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-2.svg");
 }
 
 .types__subtitle {
@@ -1123,7 +1123,7 @@ img {
 		height: 45px;
 		top: -6px;
 		right: 8px;
-		background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-left-1-table.svg);
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-left-1-table.svg);
 	}
 
 	.types__item--second::before {
@@ -1214,7 +1214,7 @@ img {
 		top: auto;
 		bottom: -182px;
 		left: 6px;
-		background-image: url("..https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-up.svg");
+		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-up.svg");
 	}
 
 	.types__item--second::before {
@@ -1234,7 +1234,7 @@ img {
 		top: -48px;
 		left: 7px;
 		right: auto;
-		background-image: url("..https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-down-2.svg");
+		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down-2.svg");
 	}
 
 	.types__item--fourth::before {
@@ -1243,7 +1243,7 @@ img {
 		top: -205px;
 		left: auto;
 		right: -9px;
-		background-image: url("..https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-arrow-down.svg");
+		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down.svg");
 	}
 
 	.types__subtitle {
@@ -1267,7 +1267,7 @@ img {
 
 .our-groups {
 	margin-top: -5px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/background-our-groups-desktop.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/background-our-groups-desktop.svg);
 	background-size: 100% 100%;
 	min-height: 803px;
 	padding-bottom: 70px;
@@ -1292,7 +1292,7 @@ img {
 	position: absolute;
 	width: 56px;
 	height: 58px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-star.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-star.svg);
 	top: 113px;
 	left: -61px;
 }
@@ -1398,7 +1398,7 @@ img {
 @media (max-width: 1199px) {
 	.our-groups {
 		margin-top: 23px;
-		background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/background-our-groups-tablet.svg);
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/background-our-groups-tablet.svg);
 		min-height: 614px;
 	}
 
@@ -1528,7 +1528,7 @@ img {
 	height: 97px;
 	top: -1px;
 	right: -86px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-house.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-house.svg);
 }
 
 .teachers::after {
@@ -1536,7 +1536,7 @@ img {
 	height: 132px;
 	bottom: 5px;
 	left: -130px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-pencil.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-pencil.svg);
 }
 
 .teachers__header-wrapper {
@@ -1793,7 +1793,7 @@ img {
 	height: 160px;
 	top: 90px;
 	left: -50px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-rainbow.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-rainbow.svg);
 }
 
 .banner__wrapper::after {
@@ -1801,7 +1801,7 @@ img {
 	height: 133px;
 	top: 150px;
 	right: 52px;
-	background-image: url(https://github.com/ZartdinovOleg/SmartBaby/tree/2bfc6bd64a39b2fedc30d5aa5bc2d2156c20cb8b/img/decorate-boy.svg);
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-boy.svg);
 }
 
 .banner__header {
