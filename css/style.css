@@ -565,8 +565,7 @@ img {
 	line-height: 45px;
 	margin-top: 0;
 	margin-bottom: 2px;
-	width: 39.17%;
-	min-width: 380px;
+	width: 100%;
 }
 
 .main-block__subtitle {
