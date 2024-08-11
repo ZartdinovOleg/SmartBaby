@@ -1041,7 +1041,7 @@ img {
 	height: 105px;
 	bottom: -66px;
 	left: 150px;
-	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-1.svg");
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-1.svg);
 }
 
 .types__item--third::before {
@@ -1049,7 +1049,7 @@ img {
 	height: 118px;
 	top: -95px;
 	right: 167px;
-	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-left-2.svg");
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-left-2.svg);
 }
 
 .types__item--fourth::before {
@@ -1057,7 +1057,7 @@ img {
 	height: 87px;
 	bottom: 11px;
 	left: 55px;
-	background-image: url("https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-2.svg");
+	background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-right-2.svg);
 }
 
 .types__subtitle {
@@ -1213,7 +1213,7 @@ img {
 		top: auto;
 		bottom: -182px;
 		left: 6px;
-		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-up.svg");
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-up.svg);
 	}
 
 	.types__item--second::before {
@@ -1233,7 +1233,7 @@ img {
 		top: -48px;
 		left: 7px;
 		right: auto;
-		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down-2.svg");
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down-2.svg);
 	}
 
 	.types__item--fourth::before {
@@ -1242,7 +1242,7 @@ img {
 		top: -205px;
 		left: auto;
 		right: -9px;
-		background-image: url("..https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down.svg");
+		background-image: url(https://zartdinovoleg.github.io/SmartBaby/img/decorate-arrow-down.svg);
 	}
 
 	.types__subtitle {
